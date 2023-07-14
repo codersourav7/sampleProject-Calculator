@@ -1,0 +1,29 @@
+#Clear
+        {
+            background-color: rgb(154, 231, 199);
+
+            width: 125px;
+        }
+        .formStyle
+        {
+            width: 138px;
+            height: 260px;
+            margin: auto;
+            padding: 15px;
+            border: 1.5px solid rgb(14, 236, 162);
+            border-radius: 5px;
+            background-color: rgb(16, 16, 16);
+        }
+        input
+        {
+            width:40px;
+
+        }
+        #answerstyle
+        {
+            width: 125px;
+        }
+        .co
+        {
+            background-color: rgb(154, 231, 199);
+        }
